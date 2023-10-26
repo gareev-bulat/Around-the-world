@@ -1,0 +1,115 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/enem1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/map.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2872,
+                "y": 1060
+            }
+        },
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/map2.tmx": {
+            "scale": 0.17565104166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2880.7116382505556,
+                "y": 1027.6056338028168
+            }
+        },
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/spritesheet_24.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/spritesheet_24_snow.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/tile_3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/tiles_1.tsx": {
+            "scaleInDock": 1
+        },
+        "aa.tsx": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2714,
+                "y": 1302
+            }
+        },
+        "map2.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2730,
+                "y": 1038
+            }
+        },
+        "map3.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 4850,
+                "y": 1119.6969696969695
+            }
+        },
+        "spritesheet_24.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_3.tsx": {
+            "scaleInEditor": 1
+        },
+        "безымянный.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5232,
+                "y": 1800
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/HP/Desktop/Pygame_project",
+    "last.imagePath": "C:/Users/HP/Desktop/Pygame_project",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "CSV файлы (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 90,
+    "openFiles": [
+        "map.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "map2.tmx",
+        "безымянный.tmx",
+        "map.tmx",
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/map2.tmx",
+        "C:/Users/HP/Desktop/проект Яндекс Лицей4/для защиты/map.tmx",
+        "spritesheet_24.tsx",
+        "tile_3.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
